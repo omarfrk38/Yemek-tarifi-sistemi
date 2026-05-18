@@ -1,4 +1,3 @@
-
 # 🍽️ YEMEK TARİF PLATFORMU
 
 Profesyonel ve kullanıcı dostu bir Yemek Tarif Platformu. PyQt5 ile geliştirilmiş, SQLite veritabanı desteğine sahip, modern ve lüks bir arayüz sunmaktadır.
